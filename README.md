@@ -5,6 +5,10 @@
 - 👯 I’m looking to collaborate on some cool projects :D
 - 💬 Ask me anything about programming (exciting!) 
 
+🤔 Where I am usually active:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/abhaysachan01/)
+
 
 😄 Where I hope to be active:
 
