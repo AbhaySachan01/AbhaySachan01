@@ -8,8 +8,7 @@
 
 😄 Where I hope to be active:
 
-[![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=abhaysachan360)](https://codeforces.com/profile/abhaysachan360)
-
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=abhaysachan360&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/abhaysachan360)
 [![Leetcode](https://leetcard.jacoblin.cool/abhaysachan01?ext=contest)](https://leetcode.com/abhaysachan01)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaysachan01)](https://github.com/abhaysachan01)
