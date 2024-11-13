@@ -6,10 +6,6 @@
 - 💬 Ask me anything about programming (exciting!) 
 
 
-🤔 Where I am usually active:
-
-[![Linkedin Presence](https://lanyard.cnrad.dev/api/273865811133857792)](https://www.linkedin.com/in/abhaysachan01)
-
 😄 Where I hope to be active:
 
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=abhaysachan360)](https://codeforces.com/profile/abhaysachan360)
