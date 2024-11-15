@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on some intresting projects >.>
-- 🌱 I’m currently learning how to teach machines :P
-- 👯 I’m looking to collaborate on some cool projects :D
-- 💬 Ask me anything about programming (exciting!) 
+I am Abhay Sachan
 
 🤔 Where I am usually active:
 
