@@ -70,8 +70,13 @@ Hello! I'm **Abhay Sachan**  with a love for web development and problem solving
         </li>
         <li>
             <a href="https://codeforces.com/profile/abhaysachan360" target="_blank">
-                <img src="https://img.shields.io/badge/-CodeForces-FFA116?style=flat&logo=leetcode&logoColor=black" alt="Codeforces Badge">
+                <img src="https://img.shields.io/badge/-CodeForces-F5B116?style=flat&logo=leetcode&logoColor=black" alt="Codeforces Badge">
             </a> (150+ questions)
+        </li>
+        <li>
+            <a href="https://www.codechef.com/users/abhay_sachan" target="_blank">
+                <img src="https://img.shields.io/badge/-Codechef-F1A116?style=flat&logo=leetcode&logoColor=black" alt="CodeChef Badge">
+            </a> (4-Star coder)
         </li>
         <li>Various online coding platforms (800+ questions)</li>
       </ul>
