@@ -18,7 +18,7 @@ Hello! I'm **Abhay Sachan**  with a love for web development and problem solving
     <td>
       <ul>
         <li><img src="https://img.shields.io/badge/CPP-8A2BE2"></li>
-        <li><img src="https://img.shields.io/badge/-Python-A8B9CC?style=flat&logo=c"></li>
+        <li><img src="https://img.shields.io/badge/-Python-A8B9CC?style=flat&logo=Py"></li>
         <li><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"></li>
         <li><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></li>
