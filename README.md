@@ -37,9 +37,6 @@ Hello! I'm **Abhay Sachan**  with a love for web development and problem solving
         <li><img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"></li>
-        <li><img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"></li>
-        <li><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"></li>
-        <li><img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white"></li>
       </ul>
     </td>
   </tr>
@@ -52,10 +49,7 @@ Hello! I'm **Abhay Sachan**  with a love for web development and problem solving
     <td>
       <ul>
         <li><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"></li>
-        <li><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"></li>
-        <li><img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white"></li>
-        <li><img src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"></li>
       </ul>
     </td>
@@ -63,7 +57,6 @@ Hello! I'm **Abhay Sachan**  with a love for web development and problem solving
       <ul>
         <li><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"></li>
-        <li><img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></li>
         <li><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"></li>
       </ul>
